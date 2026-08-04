@@ -6,9 +6,9 @@ An interactive **Power BI dashboard** built to analyze European weather patterns
 
 ## 📸 Dashboard Preview
 
-> Replace the image below with your uploaded screenshot.
+Interactive European Weather Analytics Dashboard built using Power BI.
 
-![Dashboard Preview](dashboard.png)
+![European Weather Analytics Dashboard](dashboard.png)
 
 ---
 
