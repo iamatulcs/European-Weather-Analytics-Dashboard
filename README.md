@@ -77,15 +77,6 @@ An interactive **Power BI dashboard** built to analyze European weather patterns
 
 ---
 
-## 📁 Dataset
-
-European Weather Dataset
-
-Source:
-https://zenodo.org/records/4770937
-
----
-
 ## 🎯 Skills Demonstrated
 
 - Data Cleaning
